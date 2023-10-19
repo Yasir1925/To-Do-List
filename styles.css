@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+.container{
+    background-color: azure;
+    height: 301px;
+    width: 432px;
+    border-radius: 50px;
+    margin-top: 54px;
+}
+.container h2{
+    background-color: azure;
+    border-radius: 11px;
+    height: 47px;
+    text-align: center;
+    padding-top: 13px;
+}
+#input{
+    background-color:aliceblue;
+    border-radius: 11px;
+    text-align:left;
+    margin-left: 116px;
+    margin-top: 24px;
+    height: 31px;
+    width: 208px;
+    padding-left: 11px;
+}
+.button{
+    border-radius: 7px;
+    height: 29px;
+    width: 48px;
+    margin: 9px;
+    background-color: cornflowerblue;
+    cursor: pointer;
+}
+.task ul{
+    margin-top: 1px;
+}
+
+.task ul li{
+    background-color: azure;
+    list-style: none;
+    padding-left: 123px;
+    padding-top: 14px;
+    margin-top: 15px;
+    margin: 11px 0px -12px 1px;
+    border: 100px;;
+}
